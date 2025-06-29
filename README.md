@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sabir Hussain Teli
-- 📫 How to reach me "https://www.linkedin.com/in/sabir-hussain-teli-99317921a" 
+- 📫 How to reach me "https://www.linkedin.com/in/sabirhussainteli" 
 
 
 <!---
