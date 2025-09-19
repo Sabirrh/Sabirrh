@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Sabir Hussain Teli
-- 📫 How to reach me "https://www.linkedin.com/in/sabirhussainteli" 
+- ✨ i'm interested in Java, JavaScript, React.js and Next.js (Full Stack Development)
+- 📫 How to reach me "https://www.linkedin.com/in/sabirhussainteli"
+
 
 
 <!---
