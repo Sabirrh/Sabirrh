@@ -111,9 +111,8 @@ IoT smart stick for visually impaired users using Arduino and ultrasonic sensors
 # 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sabirrh&theme=algolia&column=4"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sabirrh&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # 📈 Activity Graph
