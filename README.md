@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:2563EB,50:3B82F6,75:60A5FA,100:93C5FD&text=Sabir%20Hussain%20Teli&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20|%20Java%20|%20Spring%20Boot%20|%20MERN&descAlignY=58&descSize=20"/>
 
-# 👋 Hi, I'm Sabir Hussain Teli
-
-### 🚀 Full Stack Software Engineer
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Developer;MERN+Stack+Developer;Building+Scalable+Applications;Learning+Cloud+%26+Microservices;Always+Learning+New+Technologies"/>
 
 <br>
@@ -92,7 +88,7 @@ high-quality scalable applications.
 
 ## 💻 Languages
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css"/>
 </p>
 
@@ -100,7 +96,7 @@ high-quality scalable applications.
 
 ## 🎨 Frontend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite"/>
 </p>
 
@@ -108,7 +104,7 @@ high-quality scalable applications.
 
 ## ⚙ Backend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 </p>
 
@@ -116,7 +112,7 @@ high-quality scalable applications.
 
 ## 🗄 Database
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite"/>
 </p>
 
@@ -124,7 +120,7 @@ high-quality scalable applications.
 
 ## ☁ Cloud & DevOps
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux"/>
 </p>
 
@@ -132,7 +128,7 @@ high-quality scalable applications.
 
 ## 🛠 Tools
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,npm,vercel,netlify"/>
 </p>
 
@@ -228,11 +224,7 @@ AI Powered Chat Application
 
 </td>
 
-</tr>
-
-<tr>
-
-<td>
+<td width="50%" valign="top">
 
 ## ⚡ Electricity Billing System
 
@@ -260,7 +252,6 @@ Desktop Billing Software
 </p>
 
 </td>
-
 <td>
 
 ## 🦯 Third Eye
@@ -397,7 +388,7 @@ Research on computer vision techniques for automatic vehicle identification.
 
 # 🏆 Achievements
 
-<div align="center">
+<div>
 
 🥇 B.Tech in Computer Science & Engineering (IoT)
 
@@ -441,7 +432,7 @@ Research on computer vision techniques for automatic vehicle identification.
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<div>
 
 <img src="https://raw.githubusercontent.com/Sabirrh/Sabirrh/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -451,13 +442,13 @@ Research on computer vision techniques for automatic vehicle identification.
 
 ---
 
-# 📅 GitHub Contribution Calendar
+<!--# 📅 GitHub Contribution Calendar
 
 <div align="center">
 
 <img src="https://ghchart.rshah.org/3B82F6/Sabirrh"/>
 
-</div>
+</div> -->
 
 ---
 
