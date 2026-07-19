@@ -26,6 +26,10 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+<a href="https://www.hackerrank.com/profile/sabir5758665" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Sabirrh&style=for-the-badge&color=3B82F6"/>
@@ -322,23 +326,11 @@ IoT Smart Stick
 <div align="center">
 
 <a href="https://github.com/Sabirrh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabirrh&repo=HotelIQ&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sabirrh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/Sabirrh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabirrh&repo=ChatAI&theme=tokyonight"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Sabirrh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabirrh&repo=Electricity-Billing-System&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Sabirrh">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabirrh&repo=Third-Eye&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabirrh&layout=compact&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -442,13 +434,13 @@ Research on computer vision techniques for automatic vehicle identification.
 
 ---
 
-<!--# 📅 GitHub Contribution Calendar
+# 📅 GitHub Contribution Calendar
 
 <div align="center">
 
 <img src="https://ghchart.rshah.org/3B82F6/Sabirrh"/>
 
-</div> -->
+</div>
 
 ---
 
@@ -488,6 +480,10 @@ Research on computer vision techniques for automatic vehicle identification.
 
 <a href="https://leetcode.com/u/sabir5758665/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/sabir5758665" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
 
 <a href="https://github.com/Sabirrh">
