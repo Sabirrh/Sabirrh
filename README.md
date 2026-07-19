@@ -1,7 +1,5 @@
-<div align="center">
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25,30&text=Sabir%20Hussain%20Teli&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20MERN&descAlignY=60&descSize=20"/>
-</p>
+<!-- <div align="center">
+
 
 # 👋 Hi, I'm **Sabir Hussain Teli**
 
@@ -9,16 +7,30 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Scalable+Software;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;Open+Source+Learner;Always+Learning+Something+New"/>
 
-<!-- <p>
+<p>
 <a href="https://personal-portfolio-sepia-kappa-15.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge"></a>
 <a href="https://linkedin.com/in/sabirhussainteli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:sabirteli828@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://leetcode.com/u/sabir5758665/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
-</p> -->
+</p> 
+
+
+![](https://komarev.com/ghpvc/?username=Sabirrh&style=for-the-badge&color=blue)
+
+</div> -->
+
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:1E3A8A,50:2563EB,75:3B82F6,100:60A5FA&text=Sabir%20Hussain%20Teli&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20|%20Java%20|%20Spring%20Boot%20|%20MERN&descAlignY=60&descSize=20"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Scalable+Software;Java+Developer;Spring+Boot+Developer;MERN+Stack+Developer;Always+Learning"/>
+
+<br><br>
+
 <a href="https://personal-portfolio-sepia-kappa-15.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/sabirhussainteli">
@@ -33,11 +45,12 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sabirrh&style=for-the-badge&color=2563EB"/>
+
 </div>
 
-![](https://komarev.com/ghpvc/?username=Sabirrh&style=for-the-badge&color=blue)
-
-</div>
 
 ---
 
