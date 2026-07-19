@@ -1,25 +1,105 @@
-# 💫 About Me:
-🔭 I’m currently working on React.js, Next.js, Java, Spring boot<br>👯 I’m looking to collaborate on MERN stack and React-based web projects.<br>🤝 I’m looking for help with Improving backend skills and system design basics.<br>🌱 I’m currently learning Advanced React, Node.js, Spring Boot, Microservices, Cloud, AWS  and problem-solving<br>💬 Ask me about JavaScript, React, REST APIs, Development, Code Review  and Git/GitHub.<br>⚡ Fun fact  I like turning simple ideas into working applications.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e293b&height=180&section=header&text=Sabir%20Hussain%20Teli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%7C%20Node.js%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sabir Hussain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sabir._rh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabirhussainteli) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ Sabir Hussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabirrh12@gmail.com) 
+<a href="https://personal-portfolio-sepia-kappa-15.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sabirhussainteli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sabirrh12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/Sabir._rh_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sabirrh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sabirrh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabirrh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sabirrh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Hey, I'm Sabir 👋
+
+Full-stack developer focused on React and the MERN stack. I've shipped a production app end-to-end (frontend, backend, payments, auth) and I'm currently deepening my backend/systems-design skills — Node.js internals, microservices, and cloud infrastructure.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sabirrh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/sabirteli) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sabirteli828@gmail.com) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/sabirteli) 
+### 🚀 Featured Projects
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**HosteloHQ**
+Hostel/property management platform with online booking and payments.
+`React` `Node.js` `MongoDB` `Stripe`
+
+[Live Demo](#) · [Source](#)
+
+</td>
+<td width="50%" valign="top">
+
+**FoodCorner**
+Food ordering web app.
+`React` `Node.js` `MongoDB`
+
+[Live Demo](#) · [Source](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Electricity Billing & Customer Management System**
+Desktop/web system for utility billing and customer records.
+`Java` `MySQL`
+
+[Source](#)
+
+</td>
+<td width="50%" valign="top">
+
+**Your next project goes here**
+Short outcome-focused description — what it does, who it's for.
+`Stack`
+
+[Live Demo](#) · [Source](#)
+
+</td>
+</tr>
+</table>
+
+> Replace the `(#)` links above with your real deploy/repo URLs, and add one metric per project if you have it (e.g. "handles 200+ bookings", "reduced load time by 40%") — recruiters weigh a quantified line far more than an extra badge.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Core**
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,python" />
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind" />
+
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+
+**Databases**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+
+**Cloud, DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions,figma,postman" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sabirrh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabirrh&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+---
+
+### 🌱 Currently
+
+- Deepening: Node.js, Spring Boot, Microservices, AWS, system design fundamentals
+- Open to: MERN stack / React-based collaboration and full-time roles
+- Ask me about: JavaScript, React, REST APIs, Git/GitHub, code review
+
+<div align="center">
+<sub>📫 Reach me at <a href="mailto:sabirrh12@gmail.com">sabirrh12@gmail.com</a></sub>
+
+<br/><sub><a href="https://buymeacoffee.com/sabirteli">☕ Buy me a coffee</a></sub>
+</div>
