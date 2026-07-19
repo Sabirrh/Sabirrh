@@ -1,23 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:1E3A8A,50:2563EB,75:3B82F6,100:60A5FA&text=Sabir%20Hussain%20Teli&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20|%20Java%20|%20Spring%20Boot%20|%20MERN&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:2563EB,50:3B82F6,75:60A5FA,100:93C5FD&text=Sabir%20Hussain%20Teli&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20|%20Java%20|%20Spring%20Boot%20|%20MERN&descAlignY=58&descSize=20"/>
+
+# 👋 Hi, I'm Sabir Hussain Teli
+
+### 🚀 Full Stack Software Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Developer;MERN+Stack+Developer;Building+Scalable+Applications;Learning+Cloud+%26+Microservices;Always+Learning+New+Technologies"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Scalable+Software;Java+Developer;React+Developer;MERN+Stack+Developer;Always+Learning"/>
-
-<br><br>
-
 <a href="https://personal-portfolio-sepia-kappa-15.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/sabirhussainteli">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sabirteli828@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sabirrh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://leetcode.com/u/sabir5758665/">
@@ -26,134 +32,543 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sabirrh&style=for-the-badge&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=Sabirrh&style=for-the-badge&color=3B82F6"/>
 
 </div>
-
 
 ---
 
 # 💫 About Me
 
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 ```yaml
 Name: Sabir Hussain Teli
-Country: Nepal 🇳🇵
-Degree: B.Tech Computer Science & Engineering (IoT)
+
+Location: Nepal 🇳🇵
+
+Degree:
+B.Tech Computer Science & Engineering (IoT)
 
 Current Focus:
-  - Java
-  - Python
-  - Spring Boot
-  - MERN Stack
-  - Docker
-  - AWS
-  - System Design
+
+✔ Java
+
+✔ Spring Boot
+
+✔ MERN Stack
+
+✔ REST APIs
+
+✔ Docker
+
+✔ AWS
+
+✔ Microservices
+
+✔ System Design
+
+Open To:
+
+✔ Software Engineer
+
+✔ Java Developer
+
+✔ Backend Developer
+
+✔ Full Stack Developer
 
 Goal:
-  Become a Software Engineer building scalable products.
+
+Become a Software Engineer building
+high-quality scalable applications.
 ```
 
+<br>
+
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,bootstrap"/>
-</p>
+## 💻 Languages
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,firebase"/>
-</p>
-
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-</p>
-
-### DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,linux,vscode,postman,figma,npm,vercel,netlify" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css"/>
 </p>
 
 ---
 
-# 🌟 Featured Projects
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite"/>
+</p>
+
+---
+
+## ⚙ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite"/>
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,figma,npm,vercel,netlify"/>
+</p>
+
+---
+
+# 🌟 Why Me?
+
+✨ Passionate Full Stack Developer
+
+🚀 Love building scalable applications
+
+💡 Strong Java + MERN knowledge
+
+📚 Research publication author
+
+🌱 Constant learner
+
+🤝 Open Source Enthusiast
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🏨 HotelIQ
-Modern hotel booking platform with secure authentication, responsive UI, and booking management.
+
+Modern Hotel Booking Platform
+
+### Features
+
+- 🔐 JWT Authentication
+- 🏨 Room Booking
+- 📅 Availability Management
+- 💳 Secure Payment Integration
+- 📱 Fully Responsive
+- 👨‍💼 Admin Dashboard
+
+### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux"/>
+</p>
+
+<p align="center">
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🤖 ChatAI
-Real-time AI chat application using React, Node.js, MongoDB, Socket.io, and Gemini API.
+
+AI Powered Chat Application
+
+### Features
+
+- 💬 Real-time Chat
+- 🤖 Gemini AI
+- 🔐 Authentication
+- 🌙 Dark Mode
+- 📱 Responsive UI
+
+### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux"/>
+</p>
+
+<p align="center">
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ## ⚡ Electricity Billing System
-Java Swing desktop application using JDBC and MySQL.
+
+Desktop Billing Software
+
+### Features
+
+- Customer Management
+- Electricity Billing
+- Payment Tracking
+- Report Generation
+
+### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,mysql"/>
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td>
 
 ## 🦯 Third Eye
-IoT smart stick for visually impaired users using Arduino and ultrasonic sensors.
+
+IoT Smart Stick
+
+### Features
+
+- Obstacle Detection
+- Ultrasonic Sensor
+- Arduino
+- Portable Device
+
+### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sabirrh&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabirrh&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabirrh&layout=compact&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sabirrh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Sabirrh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabirrh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophy
+# 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sabirrh&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sabirrh&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ---
 
-# 📈 Activity Graph
+# 📌 Featured Repositories
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabirrh&theme=tokyo-night"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/Sabirrh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabirrh&repo=HotelIQ&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Sabirrh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabirrh&repo=ChatAI&theme=tokyonight"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Sabirrh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabirrh&repo=Electricity-Billing-System&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Sabirrh">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sabirrh&repo=Third-Eye&theme=tokyonight"/>
+</a>
+
+</div>
 
 ---
 
 # 📚 Publications
 
-- IoT Based Hydroponics System
-- Vehicle Number Plate Detection
+### 📖 IoT Based Hydroponics System
+
+Research focused on sustainable smart agriculture using IoT technology.
+
+### 🚗 Vehicle Number Plate Detection
+
+Research on computer vision techniques for automatic vehicle identification.
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 Current Learning
 
-- ✅ Master Spring Boot
-- ✅ Learn Microservices
-- ✅ Deploy on AWS
-- ✅ Contribute to Open Source
-- ✅ Crack a Product-Based Company
+```text
+✔ Java
+████████████████████ 95%
+
+✔ Spring Boot
+████████████████░░░░ 80%
+
+✔ React
+██████████████████░░ 90%
+
+✔ Node.js
+███████████████░░░░░ 75%
+
+✔ AWS
+██████████░░░░░░░░░░ 50%
+
+✔ Docker
+████████████░░░░░░░░ 60%
+
+✔ Microservices
+█████████░░░░░░░░░░░ 45%
+```
 
 ---
 
-# 🤝 Connect
+---
 
-- 🌐 Portfolio: https://personal-portfolio-sepia-kappa-15.vercel.app/
-- 💼 LinkedIn: https://linkedin.com/in/sabirhussainteli
-- 💻 GitHub: https://github.com/Sabirrh
-- 🧩 LeetCode: https://leetcode.com/u/sabir5758665/
-- 📧 Email: sabirteli828@gmail.com
+# 🏆 Achievements
+
+<div align="center">
+
+🥇 B.Tech in Computer Science & Engineering (IoT)
+
+📚 Published Research Papers
+
+💻 Full Stack MERN Developer
+
+☕ Java Backend Enthusiast
+
+🚀 Open Source Learner
+
+🌱 Lifelong Learner
+
+</div>
+
+---
+
+# 💡 What I'm Currently Working On
+
+```yaml
+🔭 Building:
+   Full Stack Applications
+
+🌱 Learning:
+   Spring Boot
+   Microservices
+   Docker
+   AWS
+   Kubernetes
+
+👨‍💻 Exploring:
+   Clean Architecture
+   System Design
+   Design Patterns
+
+🎯 2026 Goal:
+   Crack a Product-Based Company
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sabirrh/Sabirrh/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **⚠️ This image won't appear until you add the GitHub Action that generates it.**
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/3B82F6/Sabirrh"/>
+
+</div>
+
+---
+
+# 📈 GitHub Profile Summary
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sabirrh&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sabirrh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sabirrh&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sabirrh&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sabirrh&theme=tokyonight&utcOffset=5.75"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sabir5758665/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sabirrh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/sabirhussainteli">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://personal-portfolio-sepia-kappa-15.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel"/>
+</a>
+
+</div>
+
+---
+
+# ❤️ Support
+
+<div align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Programs must be written for people to read, and only incidentally for machines to execute."**
+
+**— Harold Abelson**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:sabirteli828@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sabirhussainteli">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://personal-portfolio-sepia-kappa-15.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Sabirrh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-> "First, solve the problem. Then, write the code."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:2563EB,50:3B82F6,75:60A5FA,100:93C5FD&height=120&section=footer"/>
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+**"Code • Learn • Build • Repeat"**
+
+<img src="https://komarev.com/ghpvc/?username=Sabirrh&style=for-the-badge&color=3B82F6"/>
 
 </div>
