@@ -64,7 +64,7 @@ Goal:
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,firebase"/>
 </p>
 
 ### Database
@@ -74,7 +74,7 @@ Goal:
 
 ### DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,aws,Redux Toolkit"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,linux,vscode,postman,figma,npm,vercel,netlify" />
 </p>
 
 ---
