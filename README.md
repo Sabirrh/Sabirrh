@@ -302,12 +302,9 @@ IoT Smart Stick
 </div>
 
 <br>
-
-<div align="center">
-
+<!-- <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabirrh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
+</div>  -->
 
 ---
 
@@ -320,20 +317,6 @@ IoT Smart Stick
 </div>
 
 ---
-
-# 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Sabirrh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sabirrh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/Sabirrh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabirrh&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
 
 ---
 
@@ -354,6 +337,9 @@ Research on computer vision techniques for automatic vehicle identification.
 ```text
 ✔ Java
 ████████████████████ 95%
+
+✔ python
+████████████████░░░80%
 
 ✔ Spring Boot
 ████████████████░░░░ 80%
