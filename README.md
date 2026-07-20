@@ -45,7 +45,7 @@
 ```yaml
 Name: Sabir Hussain Teli
 
-Location: Nepal 🇳🇵
+Location: Nepal 🇳🇵 
 
 Degree:
 B.Tech Computer Science & Engineering (IoT)
@@ -161,7 +161,7 @@ high-quality scalable applications.
 
 <td width="50%" valign="top">
 
-## 🏨 HotelIQ
+## 🏨 HotelIQ - Marketplace
 
 Modern Hotel Booking Platform
 
@@ -196,9 +196,9 @@ Modern Hotel Booking Platform
 
 <td width="50%" valign="top">
 
-## 🤖 ChatAI
+## 🤖 ChatAI- OpenAI clone
 
-AI Powered Chat Application
+AI-Powered Chat Application
 
 ### Features
 
@@ -230,7 +230,7 @@ AI Powered Chat Application
 
 <td width="50%" valign="top">
 
-## ⚡ Electricity Billing System
+## ⚡ Electricity Billing System 
 
 Desktop Billing Software
 
@@ -258,7 +258,7 @@ Desktop Billing Software
 </td>
 <td>
 
-## 🦯 Third Eye
+## 🦯Smart Blind Assistance Stick
 
 IoT Smart Stick
 
