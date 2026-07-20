@@ -416,8 +416,6 @@ Research on computer vision techniques for automatic vehicle identification.
 
 </div>
 
-> **⚠️ This image won't appear until you add the GitHub Action that generates it.**
-
 ---
 
 # 📅 GitHub Contribution Calendar
