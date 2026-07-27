@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:2563EB,50:3B82F6,75:60A5FA,100:93C5FD&text=Sabir%20Hussain%20Teli&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20|%20Java%20|%20Spring%20Boot%20|%20MERN&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Developer;MERN+Stack+Developer;Building+Scalable+Applications;Learning+Cloud+%26+Microservices;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Java+Developer;MERN+Stack+Developer;Building+Scalable+Applications;Learning+Cloud+%26+Microservices;Always+Learning+New+Technologies"/>
 
 <br>
 
